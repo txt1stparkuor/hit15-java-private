@@ -5,21 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d657cb30-b479-4bd2-a06c-96a3747c3f36" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Buoi1/.idea/hit.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Buoi1/Buoi1/Buoi1.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Buoi2/Buoi2.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Buoi2/src/Buoi2Bai1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Buoi2/src/Buoi2Bai2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hit.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/hit.iml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Buoi1/Buoi1.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Buoi1/src/Bai1.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Buoi1/src/Bai2.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Buoi1/src/Bai3.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,11 +36,14 @@
   &quot;keyToString&quot;: {
     &quot;Application.Bai1.executor&quot;: &quot;Run&quot;,
     &quot;Application.Bai2.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Buoi2Bai1.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Buoi2Bai2.executor&quot;: &quot;Run&quot;,
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
     &quot;git-widget-placeholder&quot;: &quot;master&quot;,
     &quot;jdk.selected.JAVA_MODULE&quot;: &quot;21&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/tai lieu dev/hit&quot;,
     &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
     &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
     &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;
