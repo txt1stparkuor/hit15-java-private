@@ -5,9 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d657cb30-b479-4bd2-a06c-96a3747c3f36" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Buoi3/Buoi3.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -41,21 +38,66 @@
     "Application.Bai2.executor": "Run",
     "Application.Buoi2Bai1.executor": "Run",
     "Application.Buoi2Bai2.executor": "Run",
+    "Application.Buoi3Bai1.executor": "Run",
     "Application.Buoi3Bai1TrenLop.executor": "Run",
     "Application.Buoi3Bai2TrenLop.executor": "Run",
     "Application.Buoi3Bai3TrenLop.executor": "Run",
     "Application.Buoi3Bai4TrenLop.executor": "Run",
+    "Application.Counter.executor": "Run",
+    "Application.Test.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "master",
     "jdk.selected.JAVA_MODULE": "21",
-    "last_opened_file_path": "D:/tai lieu dev/hit",
+    "last_opened_file_path": "D:/tai lieu dev/file java/demo",
     "project.structure.last.edited": "Modules",
     "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.2"
   }
 }]]></component>
+  <component name="RunManager" selected="Application.Buoi3Bai1">
+    <configuration name="Buoi3Bai1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Btvn.Buoi3Bai1" />
+      <module name="Buoi3" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Btvn.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Counter" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Counter" />
+      <module name="Buoi3" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Btvn.Test" />
+      <module name="Buoi3" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Btvn.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Buoi3Bai1" />
+        <item itemvalue="Application.Counter" />
+        <item itemvalue="Application.Test" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
