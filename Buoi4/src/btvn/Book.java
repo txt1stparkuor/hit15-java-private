@@ -81,6 +81,6 @@ public class Book {
     }
 
     public void display() {
-        System.out.println(this.toString());
+        System.out.println(this);
     }
 }
