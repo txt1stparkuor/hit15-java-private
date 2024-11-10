@@ -5,12 +5,24 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d657cb30-b479-4bd2-a06c-96a3747c3f36" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/323/323.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/323/src/btvn/Book.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/323/src/btvn/Command.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/323/src/btvn/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Buoi4/Buoi4.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Buoi4/src/btvn/Book.java" beforeDir="false" afterPath="$PROJECT_DIR$/Buoi4/src/btvn/Book.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager">
+    <option name="groupingKeys">
+      <option value="module" />
+    </option>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -27,6 +39,9 @@
   &quot;associatedIndex&quot;: 1
 }</component>
   <component name="ProjectId" id="2o4chKuyI21OvwdAzThtdLOi9zy" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -44,6 +59,8 @@
     "Application.Buoi3Bai3TrenLop.executor": "Run",
     "Application.Buoi3Bai4TrenLop.executor": "Run",
     "Application.Counter.executor": "Run",
+    "Application.Main (1).executor": "Run",
+    "Application.Main.executor": "Run",
     "Application.Test.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -56,7 +73,12 @@
     "project.structure.side.proportion": "0.2"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Buoi3Bai1">
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\tai lieu dev\hit15_java_private\tam\src" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Main">
     <configuration name="Buoi3Bai1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Btvn.Buoi3Bai1" />
       <module name="Buoi3" />
@@ -77,6 +99,27 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="test" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="ALTERNATIVE_JRE_PATH" value="21" />
+      <option name="MAIN_CLASS_NAME" value="btvn.Main" />
+      <module name="Buoi4" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="btvn.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Btvn.Test" />
       <module name="Buoi3" />
@@ -92,6 +135,8 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.Main (1)" />
         <item itemvalue="Application.Buoi3Bai1" />
         <item itemvalue="Application.Counter" />
         <item itemvalue="Application.Test" />
@@ -107,6 +152,23 @@
       <option name="presentableId" value="Default" />
       <updated>1730132407923</updated>
     </task>
+    <task id="LOCAL-00001" summary="bài tập về nhà">
+      <option name="closed" value="true" />
+      <created>1731253285511</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1731253285511</updated>
+    </task>
+    <task id="LOCAL-00002" summary="bài tập về nhà">
+      <option name="closed" value="true" />
+      <created>1731253372522</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1731253372522</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
 </project>
