@@ -9,7 +9,6 @@ import static btvn.Main.bookCount;
 
 public class Command {
     static Scanner scanner = new Scanner(System.in);
-
     public static void addBook() {
         System.out.print("Nhập mã sách: ");
         int maSach = scanner.nextInt();
@@ -18,6 +17,7 @@ public class Command {
         String tenSach = scanner.nextLine();
         System.out.print("Nhập tên tác giả: ");
         String tenTacGia = scanner.nextLine();
+        TacGia tacGia=new TacGia(tenTacGia);
         System.out.print("Nhập năm xuất bản: ");
         int namSanXuat = scanner.nextInt();
         scanner.nextLine();
@@ -26,7 +26,7 @@ public class Command {
         System.out.print("Nhập giá: ");
         double giaTien = scanner.nextDouble();
 
-        Book newBook = new Book(maSach, tenSach, tenTacGia, namSanXuat, tomTatNoiDung, giaTien);
+        Book newBook = new Book(maSach, tenSach, tacGia, namSanXuat, tomTatNoiDung, giaTien);
 
         books = Arrays.copyOf(books, bookCount + 1);
         books[bookCount] = newBook;
@@ -47,7 +47,8 @@ public class Command {
 
                 System.out.print("Nhập tên tác giả mới (để trống để giữ nguyên): ");
                 String tenTacGia = scanner.nextLine();
-                if (!tenTacGia.isEmpty()) books[i].setTenTacGia(tenTacGia);
+                TacGia tacGia=new TacGia(tenTacGia);
+                if (!tacGia.getTenTacGia().isEmpty()) books[i].setTenTacGia(tacGia);
 
                 System.out.print("Nhập năm mới (để trống để giữ nguyên): ");
                 String namSanXuatInput = scanner.nextLine();

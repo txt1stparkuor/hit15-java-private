@@ -2,7 +2,7 @@ package btvn;
 public class Book {
     private int maSach;
     private String tenSach;
-    private String tenTacGia;
+    private TacGia tenTacGia;
     private int namSanXuat;
     private String tomTatNoiDung;
     private double giaTien;
@@ -10,7 +10,7 @@ public class Book {
     public Book() {
     }
 
-    public Book(int maSach, String tenSach, String tenTacGia, int namSanXuat, String tomTatNoiDung, double giaTien) {
+    public Book(int maSach, String tenSach, TacGia tenTacGia, int namSanXuat, String tomTatNoiDung, double giaTien) {
         this.maSach = maSach;
         this.tenSach = tenSach;
         this.tenTacGia = tenTacGia;
@@ -35,11 +35,11 @@ public class Book {
         this.tenSach = tenSach;
     }
 
-    public String getTenTacGia() {
+    public TacGia getTenTacGia() {
         return tenTacGia;
     }
 
-    public void setTenTacGia(String tenTacGia) {
+    public void setTenTacGia(TacGia tenTacGia) {
         this.tenTacGia = tenTacGia;
     }
 
@@ -72,7 +72,7 @@ public class Book {
         return "Book{" +
                 "maSach=" + maSach +
                 ", tenSach='" + tenSach + '\'' +
-                ", tenTacGia='" + tenTacGia + '\'' +
+                ", tenTacGia=" + tenTacGia +
                 ", namSanXuat=" + namSanXuat +
                 ", tomTatNoiDung='" + tomTatNoiDung + '\'' +
                 ", giaTien=" + giaTien +
@@ -80,6 +80,6 @@ public class Book {
     }
 
     public void display() {
-        System.out.println(this);
+        this.toString();
     }
 }
